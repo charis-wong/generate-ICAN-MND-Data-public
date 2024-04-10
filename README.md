@@ -1,6 +1,6 @@
 # generateICAN-MNDData
 
-Code to generate up to date drug list with data from relisyr - and combine this with data from in vitro screening, pathway analysis, chembl, bnf, admetsar - to upload to googlesheets. ICAN-MND will then pull data from googlesheets for the shinyapp (https://camarades.shinyapps.io/ICAN-MND_V2)
+Code to generate up to date drug list with data from relisyr - and combine this with data from in vitro screening, pathway analysis, chembl, bnf, admetsar - to upload to googlesheets. ICAN-MND will then pull data from googlesheets for the shinyapp (https://camarades.shinyapps.io/ICAN-MND)
 
 Raw data sources
 1. DrugLibrary.csv - Drug Screening Library from Alessandra. 6651 compounds, columns: Library, Original_Supplier_Name, Name, Compound_ID, CAS, SMILES, Target
